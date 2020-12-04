@@ -3,7 +3,7 @@
 Para ejecutar el proyecto correr el archivo Matrix.java. Dentro del archivo hay una matriz la cual es el input.
 
 Input:
-![](https://ibb.co/TgYgG7s)
+![](https://i.ibb.co/fxqxWys/image.png)
 
 Output:
-![](https://ibb.co/8xr1M4f)
+![](https://i.ibb.co/dpP8BJV/image.png)
